@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MyCollectionViewController initData]:MyCollectionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[KitchenViewController tableView:cellForRowAtIndexPath:]:KitchenViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_saveArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FourthHomeViewController tableView:didSelectRowAtIndexPath:]:FourthHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_xiafanTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HotTableViewController viewWillAppear:]:HotTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[KitchenViewController viewWillAppear:]:KitchenViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FourthHomeViewController initData]:FourthHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_rightArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
